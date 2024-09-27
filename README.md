@@ -21,7 +21,7 @@ This project was created as part of the "Computer Architecture" course during my
    git clone https://github.com/MaciejCieslik1/BMPEllipse.git
    ```
 
-3. Transfer files loned from github to the ame directory in which file rars1_6.jar exists.
+3. Transfer files loned from github to the same directory in which file rars1_6.jar exists.
 
 4. Run rars simulator with command:
    ```sh
