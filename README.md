@@ -2,7 +2,7 @@
 
 
 ## 📜 Description
-The **BMP ELLipse** program is a project developed in RISC-V assembly, which generates an ellipse in BMP file.
+The **BMP Ellipse** program is a project developed in RISC-V assembly, which generates an ellipse in BMP file.
 
 ## 📝 Note
 
